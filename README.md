@@ -1,6 +1,49 @@
-<img width="1196" height="632" alt="image" src="https://github.com/user-attachments/assets/5c7692d2-39e1-420f-8783-a9cba3b75f83" />
+Part
+Pin / Terminal
+Connects To
+USB-C charging module
+VO+
+Battery RED (+)
+USB-C charging module
+VO-
+Battery BLACK (-)
+Battery
+RED (+)
+Buck converter IN+
+Battery
+BLACK (-)
+Buck converter IN-, L298N GND terminal, USB-C module VO-
+Buck converter
+OUT+
+ESP32 VIN or 5V pin
+Buck converter
+OUT-
+ESP32 GND
+Battery
+RED (+)
+L298N 12V terminal
+Battery
+BLACK (-)
+L298N GND terminal
+Motor
+Wire 1
+L298N OUT1
+Motor
+Wire 2
+L298N OUT2
+ESP32
+GPIO 12
+L298N IN1
+ESP32
+GPIO 13
+L298N IN2
+ESP32
+GND
+L298N GND terminal
+Button
+Leg 1
+ESP32 GPIO 15
+Button
+Leg 2
+ESP32 GND
 
-this is  as imple door closing mechanisim desinged to close a door with out touching it and needing the expensive stuff. 
-the way this works is that you get some of the wire, tie it to the end of part 1. next tie the other end to a wieght or a water bottle will do
-before that using the 3d printed part atach them using the adhesive strips to the door frame. part 1 above the door and part 2 right below it but ON THE DOOR.
-going back at the end just place the sring on the round wheel and vola, as the door open, it will be closed due to laws of physiscs
