@@ -10,5 +10,14 @@
 | buck converter| OUT - | esp 32 GND |
 | battery | red +  | l298n 12v |
 | battery | black - | l298n Gnd terminal |
+| motor | wire 1  | l298n OUT1 |
+| motor | wire 2  | l298n OUT 2 |
+| esp32 | gpio 12 | l298n IN1|
+| esp 32 |gpio 13 | L298n IN2 |
+
+        SENDER REMOTE
+  |-------------|-----------------|------------|
+| BUTTON | LEG 1 | ESP32 GPIO 15|
+|BUTTON | LEG 2 | ESP32 GND |
 
 
