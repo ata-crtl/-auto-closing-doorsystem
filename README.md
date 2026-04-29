@@ -16,6 +16,7 @@
 | esp 32 |gpio 13 | L298n IN2 |
 
         SENDER REMOTE
+| PART | PIN | CONNECTS TO |
 |-------------|-----------------|------------|
 | BUTTON | LEG 1 | ESP32 GPIO 15|
 |BUTTON | LEG 2 | ESP32 GND |
