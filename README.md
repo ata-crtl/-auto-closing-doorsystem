@@ -1,3 +1,7 @@
+This is a automaticly closing door closer. you push the button and the door closes. I was tiered of my door being constantly left open by evry one, so i built this , all you have to do is press a button and vola, the motor spins and it closes.
+
+
+
 CONNECTIONS 
 
 | part | pin| connects to  |
