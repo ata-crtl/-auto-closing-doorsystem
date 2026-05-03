@@ -30,7 +30,8 @@ CONNECTIONS
 | BUTTON | LEG 1 | ESP32 GPIO 15|
 |BUTTON | LEG 2 | ESP32 GND |
 
+
 **ASSEMBLING INSTRUCTIONS **
 <img width="1102" height="651" alt="image" src="https://github.com/user-attachments/assets/9496cd25-e906-4eb4-a318-d313f1c34982" />
 
- get part 3 and insert it between part 1 and 2 like shown above. after that on the end twards part 2, there should be part of part 3 sticking out, fix part 4 to the end of part 3 like shown above.
+ STEP 1 : get part 3 and insert it between part 1 and 2 like shown above. after that on the end twards part 2, there should be part of part 3 sticking out, fix part 4 to the end of part 3 like shown above.
