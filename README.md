@@ -50,3 +50,7 @@ CONNECTIONS
 <img width="862" height="600" alt="image" src="https://github.com/user-attachments/assets/a64b3fea-5eac-414a-aa01-f76632bd8055" />
 step7 : This piece goes above the door and the other end of the fishing line gets tied to it as well.
 
+                            RECIVER REMOTE
+1. put the button throught the lid the solder the elctronics
+2. close the lid using the given screws.
+
