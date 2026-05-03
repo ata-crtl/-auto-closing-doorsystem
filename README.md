@@ -37,6 +37,9 @@ CONNECTIONS
  STEP 1 : get part 3 and insert it between part 1 and 2 like shown above. after that on the end twards part 2, there should be part of part 3 sticking out, fix part 4 to the end of part 3 like shown above.
  <img width="865" height="441" alt="Screenshot 2026-05-03 131130" src="https://github.com/user-attachments/assets/6e26d812-d8d6-438b-ad11-385e41d9e586" />
  
+ 
  STEP 2 : insert into the larger frame like shown above.
+ 
  STEP 3 : inser the end of the motor into end of part 4.
+
  step 4 : put the motor connected to all the electronics into the case , put the adhesive at the bottom of the lid and place it on the top of the case with all the electronics.
