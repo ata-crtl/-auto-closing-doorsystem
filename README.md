@@ -20,8 +20,7 @@ CONNECTIONS
 | buck conveter |out + | esp 32 vin or 5v |
 | buck converter| OUT - | esp 32 GND |
 | battery | red +  | l298n 12v |
-| battery | black - | l298n Gnd terminal |<img width="1102" height="651" alt="image" src="https://github.com/user-attachments/assets/f7a4d7ba-b0e9-4cdd-be5c-05cd44a40da5" />
-
+| battery | black - | l298n Gnd terminal |
 | esp32 | gpio 12 | l298n IN1|
 | esp 32 |gpio 13 | L298n IN2 |
 
