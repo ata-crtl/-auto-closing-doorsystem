@@ -47,4 +47,6 @@ CONNECTIONS
  STEP 5 :The face shown in the pic above,should get adhesived to the back of the door.
  <img width="312" height="367" alt="image" src="https://github.com/user-attachments/assets/f367fe6c-78b4-4104-a2a0-8554b6c36258" />
  STEP6: put the end of the fishing line,knot it once and slide it in the space to lock it in.
+<img width="862" height="600" alt="image" src="https://github.com/user-attachments/assets/a64b3fea-5eac-414a-aa01-f76632bd8055" />
+step7 : This piece goes abpve the door and the other end of the fishing line gets tied to.
 
