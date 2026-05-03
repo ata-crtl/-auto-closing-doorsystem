@@ -5,6 +5,8 @@ This is a automaticly closing door closer. you push the button and the door clos
 
 
 
+
+
 CONNECTIONS 
 
 | part | pin| connects to  |
