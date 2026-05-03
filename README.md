@@ -43,3 +43,5 @@ CONNECTIONS
  STEP 3 : inser the end of the motor into end of part 4.
 
  step 4 : put the motor connected to all the electronics into the case , put the adhesive at the bottom of the lid and place it on the top of the case with all the electronics.
+<img width="992" height="487" alt="image" src="https://github.com/user-attachments/assets/df747555-c45e-4ee7-ad1c-2318853a84a4" />
+ STEP 5 :The face shown in the pic above,should get adhesived to the back of the door.
