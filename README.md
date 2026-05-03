@@ -45,3 +45,6 @@ CONNECTIONS
  step 4 : put the motor connected to all the electronics into the case , put the adhesive at the bottom of the lid and place it on the top of the case with all the electronics.
 <img width="992" height="487" alt="image" src="https://github.com/user-attachments/assets/df747555-c45e-4ee7-ad1c-2318853a84a4" />
  STEP 5 :The face shown in the pic above,should get adhesived to the back of the door.
+ <img width="312" height="367" alt="image" src="https://github.com/user-attachments/assets/f367fe6c-78b4-4104-a2a0-8554b6c36258" />
+ STEP6: put the end of the fishing line,knot it once and slide it in the space to lock it in.
+
