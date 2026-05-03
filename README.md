@@ -15,9 +15,8 @@ CONNECTIONS
 | buck conveter |out + | esp 32 vin or 5v |
 | buck converter| OUT - | esp 32 GND |
 | battery | red +  | l298n 12v |
-| battery | black - | l298n Gnd terminal |
-| motor | wire 1  | l298n OUT1 |
-| motor | wire 2  | l298n OUT 2 |
+| battery | black - | l298n Gnd terminal |<img width="1102" height="651" alt="image" src="https://github.com/user-attachments/assets/f7a4d7ba-b0e9-4cdd-be5c-05cd44a40da5" />
+
 | esp32 | gpio 12 | l298n IN1|
 | esp 32 |gpio 13 | L298n IN2 |
 
@@ -27,4 +26,7 @@ CONNECTIONS
 | BUTTON | LEG 1 | ESP32 GPIO 15|
 |BUTTON | LEG 2 | ESP32 GND |
 
+**ASSEMBLING INSTRUCTIONS **
+<img width="1102" height="651" alt="image" src="https://github.com/user-attachments/assets/9496cd25-e906-4eb4-a318-d313f1c34982" />
 
+ get part 3 and insert it between part 1 and 2 like shown above. after that on the end twards part 2, there should be part of part 3 sticking out, fix part 4 to the end of part 3 like shown above.
