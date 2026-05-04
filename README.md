@@ -1,4 +1,4 @@
-This is a automaticly closing door closer. you push the button and the door closes. I was tiered of my door being constantly left open by every one, so i built this , all you have to do is press a button and vola, the motor spins and it closes.
+This is a automaticly closing door closer. you push the button and the door closes. I was tiered of my door being constantly left open by every one, so i built this , all you have to do is press a button and vola, the motor spins and it closes. i have used a hight power motor to make sure the door closes ,and a special type of adhesive that bond to the wood, it is designed to be rechargeible. Before ataching the wires to the esp32 vin, make sure , using a multi meter that that the wire coming from the buck converter has a voltage of 5v.
 
 
 **onshape link** =https://cad.onshape.com/documents/bdd11de85f4570d51cb36bd7/w/b7536c01ad29c059d531be40/e/07df8b484f8b3f7ee84a2b9b?renderMode=0&uiState=69f773907c9e9754978c7c0b
@@ -45,7 +45,7 @@ CONNECTIONS
 
  step 4 : put the motor connected to all the electronics into the case , put the adhesive at the bottom of the lid and place it on the top of the case with all the electronics.
 <img width="992" height="487" alt="image" src="https://github.com/user-attachments/assets/df747555-c45e-4ee7-ad1c-2318853a84a4" />
- STEP 5 :The face shown in the pic above,should get adhesived to the back of the door.
+ STEP 5 :The face shown in the pic above,should get attached using the polymer tape to the back of the door.
  <img width="312" height="367" alt="image" src="https://github.com/user-attachments/assets/f367fe6c-78b4-4104-a2a0-8554b6c36258" />
  STEP6: put the end of the fishing line,knot it once and slide it in the space to lock it in.
 <img width="862" height="600" alt="image" src="https://github.com/user-attachments/assets/a64b3fea-5eac-414a-aa01-f76632bd8055" />
