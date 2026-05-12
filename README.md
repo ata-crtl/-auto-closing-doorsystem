@@ -59,6 +59,6 @@ CONNECTIONS
 step7 : This piece goes above the door and the other end of the fishing line gets tied to it as well.
 
                             RECIVER REMOTE
-1. put the button throught the lid the solder the elctronics
+1. put the button throught the lid  and then solder the elctronics
 2. close the lid using the given screws.
 
