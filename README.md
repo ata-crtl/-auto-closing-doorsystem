@@ -32,6 +32,7 @@ CONNECTIONS
 |-------------|-----------------|------------|
 | BUTTON | LEG 1 | ESP32 GPIO 15|
 |BUTTON | LEG 2 | ESP32 GND |
+<img width="887" height="602" alt="image" src="https://github.com/user-attachments/assets/b025f86a-43b0-4587-86cb-beff842ca4a6" />
 
 
 **ASSEMBLING INSTRUCTIONS **
