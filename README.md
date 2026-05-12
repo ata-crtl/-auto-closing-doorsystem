@@ -1,6 +1,6 @@
 This is a automaticly closing door closer 
 
-you push the button and the door closes. I was tiered of my door being constantly left open by every one, so i built this , all you have to do is press a button and vola, the motor spins and it closes. i have used a hight power motor to make sure the door closes ,and a special type of adhesive that bond to the wood, it is designed to be rechargeible. 
+you push the button and the door closes. I was tiered of my door being constantly left open by every one, so i built this , all you have to do is press a button and vola, the motor spins and it closes. i have used a hight power motor to make sure the door closes ,and a special type of adhesive that bonds to the wood, it is designed to be rechargeible. 
 
 Before ataching the wires to the esp32 vin, make sure , using a multi meter that that the wire coming from the buck converter has a voltage of 5v.
 
