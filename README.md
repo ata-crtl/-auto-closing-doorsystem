@@ -25,6 +25,7 @@ CONNECTIONS
 | battery | black - | l298n Gnd terminal |
 | esp32 | gpio 12 | l298n IN1|
 | esp 32 |gpio 13 | L298n IN2 |
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/dffa8311-d884-44aa-8000-76867a76e0b3" />
 
         SENDER REMOTE
 | PART | PIN | CONNECTS TO |
