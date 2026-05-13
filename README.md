@@ -36,7 +36,7 @@ CONNECTIONS
 |-------------|-----------------|------------|
 | BUTTON | LEG 1 | ESP32 GPIO 15|
 |BUTTON | LEG 2 | ESP32 GND |
-|battery|negative|TP4056 B+|
+|battery|positive|TP4056 B+|
 |battery|negative|Tp4056 B-|
 |tp4056|out+|boost module vin+|
 |tp4056|out-|boost module vin-|
