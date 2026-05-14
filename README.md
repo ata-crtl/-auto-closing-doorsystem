@@ -5,7 +5,7 @@ you push the button and the door closes. I was tiered of my door being constantl
 Before ataching the wires to the esp32 vin, make sure , using a multi meter that that the wire coming from the buck converter has a voltage of 5v.Addionaly do the same for the remote
 
 
-**onshape link** =https://cad.onshape.com/documents/bdd11de85f4570d51cb36bd7/w/b7536c01ad29c059d531be40/e/07df8b484f8b3f7ee84a2b9b?renderMode=0&uiState=69f773907c9e9754978c7c0b
+**onshape link** = https://cad.onshape.com/documents/bdd11de85f4570d51cb36bd7/w/b7536c01ad29c059d531be40/e/18cae29c07399e9e1a59fdc1?renderMode=0&uiState=6a0644923286901e478942eb
 
 
 <img width="456" height="650" alt="image" src="https://github.com/user-attachments/assets/4f2492cb-006c-43d6-8838-15de3b196b8f" />
