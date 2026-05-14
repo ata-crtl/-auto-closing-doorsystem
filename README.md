@@ -63,7 +63,19 @@ step 4 :insert the part shown into the pully system then attach the motor to it 
 step 5 :use three screws to secure the lid down
 <img width="1332" height="540" alt="image" src="https://github.com/user-attachments/assets/a8847131-c2ac-43f2-a6ae-ef1f767a284e" />
 step 6 :secure to the door using the 4 ,20mm screws <img width="842" height="457" alt="image" src="https://github.com/user-attachments/assets/14c9a15f-8c15-404c-b9e6-f5591c0df92d" />
-step 6 : attach above the door using 4 screws.
+
+
+step 7 : attach above the door using 4 screws.
+<img width="516" height="352" alt="image" src="https://github.com/user-attachments/assets/5e7975af-ab9b-40c2-a3d3-26c19963dbbe" />
+step 8 : knot 1 end of the fishing line to the hole in the pulley wheel and tie the other end to the hook above the door.
+<img width="1157" height="815" alt="image" src="https://github.com/user-attachments/assets/73b67b78-9201-4ae9-b1d9-ab369c6ba442" />
+
+**the remote**
+step 1 : put the button throught the hole in the lid
+<img width="380" height="382" alt="image" src="https://github.com/user-attachments/assets/e3373d02-2956-492f-b2d2-9bda6ebd830d" />
+step 2 : attach the elctronics
+step 3 : close the lid and screw down usong 4 screws.
+
 
 
 
