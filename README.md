@@ -66,8 +66,11 @@ step 6 :secure to the door using the 4 ,20mm screws <img width="842" height="457
 
 
 step 7 : attach above the door using 4 screws.
+
 <img width="516" height="352" alt="image" src="https://github.com/user-attachments/assets/5e7975af-ab9b-40c2-a3d3-26c19963dbbe" />
+
 step 8 : knot 1 end of the fishing line to the hole in the pulley wheel and tie the other end to the hook above the door.
+
 <img width="1157" height="815" alt="image" src="https://github.com/user-attachments/assets/73b67b78-9201-4ae9-b1d9-ab369c6ba442" />
 
 **the remote**
