@@ -72,8 +72,13 @@ step 8 : knot 1 end of the fishing line to the hole in the pulley wheel and tie 
 
 **the remote**
 step 1 : put the button throught the hole in the lid
+
+
 <img width="380" height="382" alt="image" src="https://github.com/user-attachments/assets/e3373d02-2956-492f-b2d2-9bda6ebd830d" />
+
+
 step 2 : attach the elctronics
+
 step 3 : close the lid and screw down usong 4 screws.
 
 
