@@ -47,5 +47,22 @@ OVERVIEW OF ELECTRONICS
 <img width="872" height="447" alt="image" src="https://github.com/user-attachments/assets/41cbf350-64f1-4c59-881d-368c3aa04bd5" />
 
 
+
 **ASSEMBLING INSTRUCTIONS **
+
+main meachnisim
+step1: connect all the electronics.
+step2: connect these parts like shown so
+<img width="482" height="381" alt="image" src="https://github.com/user-attachments/assets/35f0c773-a427-409d-ba69-0411f42e06e3" />
+
+
+step3:insert into mainframe like shown so
+<img width="592" height="417" alt="image" src="https://github.com/user-attachments/assets/775ac7c0-9169-46fa-b4eb-01dd6f7bb59e" />
+step4:insert the part shown into the pully system then attach the motor to it withh all the lectronics and set them in the case.
+<img width="1215" height="327" alt="image" src="https://github.com/user-attachments/assets/5667d320-ce3b-40a8-91f3-95d18a61fdf6" />
+step5:use three screws to secure the lid down
+<img width="1332" height="540" alt="image" src="https://github.com/user-attachments/assets/a8847131-c2ac-43f2-a6ae-ef1f767a284e" />
+
+
+
 
