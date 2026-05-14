@@ -62,6 +62,7 @@ step4:insert the part shown into the pully system then attach the motor to it wi
 <img width="1215" height="327" alt="image" src="https://github.com/user-attachments/assets/5667d320-ce3b-40a8-91f3-95d18a61fdf6" />
 step5:use three screws to secure the lid down
 <img width="1332" height="540" alt="image" src="https://github.com/user-attachments/assets/a8847131-c2ac-43f2-a6ae-ef1f767a284e" />
+step6:secure to the door using the 4 20mm screws <img width="842" height="457" alt="image" src="https://github.com/user-attachments/assets/14c9a15f-8c15-404c-b9e6-f5591c0df92d" />
 
 
 
