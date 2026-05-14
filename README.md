@@ -50,7 +50,8 @@ OVERVIEW OF ELECTRONICS
 
 **ASSEMBLING INSTRUCTIONS **
 
-main meachnisim
+main mechanism
+
 step 1 : connect all the electronics.
 step 2 : connect these parts like shown so
 <img width="482" height="381" alt="image" src="https://github.com/user-attachments/assets/35f0c773-a427-409d-ba69-0411f42e06e3" />
