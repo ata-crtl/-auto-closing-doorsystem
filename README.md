@@ -43,6 +43,9 @@ CONNECTIONS
 |step up module|vout+|esp32 5v|
 |step up module|vout-|esp32 GND|
 
+OVERVIEW OF ELECTRONICS
+<img width="872" height="447" alt="image" src="https://github.com/user-attachments/assets/41cbf350-64f1-4c59-881d-368c3aa04bd5" />
+
 
 **ASSEMBLING INSTRUCTIONS **
 
