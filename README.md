@@ -1,91 +1,131 @@
-This is a automaticly closing door closer 
+# Automatic Door Closer
 
-you push the button and the door closes. I was tiered of my door being constantly left open by every one, so i built this , all you have to do is press a button and vola, the motor spins and it closes. i have used a hight power motor to make sure the door closes ,and a special type of adhesive that bonds to the wood, it is designed to be rechargeible. 
+A rechargeable automatic door closer built to solve a simple but annoying problem: people kept leaving the door open, so this system closes it for you at the press of a button.
 
-Before ataching the wires to the esp32 vin, make sure , using a multi meter that that the wire coming from the buck converter has a voltage of 5v.Addionaly do the same for the remote
+Press the button, and the motor spins to pull the line and close the door. The project uses a high-power motor so the mechanism has enough force to shut the door reliably, and it uses a strong adhesive that bonds well to wood. It is also designed to be rechargeable.
 
+## Why I Made It
 
-**onshape link** = https://cad.onshape.com/documents/bdd11de85f4570d51cb36bd7/w/b7536c01ad29c059d531be40/e/18cae29c07399e9e1a59fdc1?renderMode=0&uiState=6a0644923286901e478942eb
+I got tired of my door being constantly left open, so I built this. The idea was to make something simple and practical: press one button, and the door closes.
 
+## Features
 
-<img width="456" height="650" alt="image" src="https://github.com/user-attachments/assets/4f2492cb-006c-43d6-8838-15de3b196b8f" />
+- Push button door closing.
+- High power motor for stronger pulling force.
+- Rechargeable power system.
+- ESP32 based control system.
+- Separate remote sender.
+- Designed to mount onto a door and above the door frame.
 
+## Important Safety Check
 
+Before attaching the wires to the ESP32 VIN pin, use a multimeter to make sure the wire coming from the buck converter is **5V**. Do the same for the remote power output before connecting it to the ESP32.
 
+## CAD
 
-CONNECTIONS 
+**Onshape link:**  
+[View the Onshape model](https://cad.onshape.com/documents/bdd11de85f4570d51cb36bd7/w/b7536c01ad29c059d531be40/e/18cae29c07399e9e1a59fdc1?renderMode=0&uiState=6a0644923286901e478942eb)
 
-| part | pin| connects to  |
-| ------------- | ------------- | ------------ |
-| usb c charging module  | vo+ | battery red + |
-| usb c charging module  | vo -  | battery black - |
-| battery | red + | buck converter IN+ |
-| battery | black - | buck converter IN- |
-| battery | black - | L298N gnd terminal  |
-| battery | black - | usb c module VO -|
-| buck conveter |out + | esp 32 vin or 5v |
-| buck converter| OUT - | esp 32 GND |
-| battery | red +  | l298n 12v |
-| battery | black - | l298n Gnd terminal |
-| esp32 | gpio 12 | l298n IN1|
-| esp 32 |gpio 13 | L298n IN2 |
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/dffa8311-d884-44aa-8000-76867a76e0b3" />
+## Main Build Preview
 
-        SENDER REMOTE
-| PART | PIN | CONNECTS TO |
-|-------------|-----------------|------------|
-| BUTTON | LEG 1 | ESP32 GPIO 15|
-|BUTTON | LEG 2 | ESP32 GND |
-|battery|positive|TP4056 B+|
-|battery|negative|Tp4056 B-|
-|tp4056|out+|boost module vin+|
-|tp4056|out-|boost module vin-|
-|step up module|vout+|esp32 5v|
-|step up module|vout-|esp32 GND|
+<img width="456" height="650" alt="Automatic door closer build" src="https://github.com/user-attachments/assets/4f2492cb-006c-43d6-8838-15de3b196b8f" />
 
-OVERVIEW OF ELECTRONICS
-<img width="872" height="447" alt="image" src="https://github.com/user-attachments/assets/41cbf350-64f1-4c59-881d-368c3aa04bd5" />
+## Bill of Materials
 
+| Item | Notes |
+|------|-------|
+| ESP32 | Main controller for the door closer |
+| ESP32 | Controller used in the sender remote |
+| L298N motor driver | Drives the main motor |
+| High-power motor | Provides the force to close the door |
+| USB-C charging module | Charges the battery in the main unit |
+| TP4056 charging module | Charges the battery in the remote |
+| Buck converter | Steps voltage down to 5V for the ESP32 |
+| Boost/step-up module | Steps voltage up for the remote ESP32 |
+| Rechargeable battery | Main power source |
+| Push button | Used to trigger the system |
+| Fishing line | Connects the pulley system to the door |
+| Screws | Used to mount the mechanism and close the case |
+| Adhesive for wood | Used where needed for secure mounting |
+| Multimeter | Needed to verify output voltage before wiring |
 
+## Main Unit Connections
 
-**ASSEMBLING INSTRUCTIONS **
+| Part | Pin | Connects to |
+|------|-----|-------------|
+| USB-C charging module | VO+ | Battery red (+) |
+| USB-C charging module | VO- | Battery black (-) |
+| Battery | Red (+) | Buck converter IN+ |
+| Battery | Black (-) | Buck converter IN- |
+| Battery | Black (-) | L298N GND terminal |
+| Battery | Black (-) | USB-C module VO- |
+| Buck converter | OUT+ | ESP32 VIN or 5V |
+| Buck converter | OUT- | ESP32 GND |
+| Battery | Red (+) | L298N 12V |
+| Battery | Black (-) | L298N GND terminal |
+| ESP32 | GPIO 12 | L298N IN1 |
+| ESP32 | GPIO 13 | L298N IN2 |
 
-main mechanism
+<img width="3508" height="2480" alt="Main unit wiring diagram" src="https://github.com/user-attachments/assets/dffa8311-d884-44aa-8000-76867a76e0b3" />
 
-step 1 : connect all the electronics.
-step 2 : connect these parts like shown so
-<img width="482" height="381" alt="image" src="https://github.com/user-attachments/assets/35f0c773-a427-409d-ba69-0411f42e06e3" />
+## Sender Remote Connections
 
+| Part | Pin | Connects to |
+|------|-----|-------------|
+| Button | Leg 1 | ESP32 GPIO 15 |
+| Button | Leg 2 | ESP32 GND |
+| Battery | Positive | TP4056 B+ |
+| Battery | Negative | TP4056 B- |
+| TP4056 | OUT+ | Boost module VIN+ |
+| TP4056 | OUT- | Boost module VIN- |
+| Step-up module | VOUT+ | ESP32 5V |
+| Step-up module | VOUT- | ESP32 GND |
 
-step 3 :insert into mainframe like shown so
-<img width="592" height="417" alt="image" src="https://github.com/user-attachments/assets/775ac7c0-9169-46fa-b4eb-01dd6f7bb59e" />
-step 4 :insert the part shown into the pully system then attach the motor to it withh all the lectronics and set them in the case.
-<img width="1215" height="327" alt="image" src="https://github.com/user-attachments/assets/5667d320-ce3b-40a8-91f3-95d18a61fdf6" />
-step 5 :use three screws to secure the lid down
-<img width="1332" height="540" alt="image" src="https://github.com/user-attachments/assets/a8847131-c2ac-43f2-a6ae-ef1f767a284e" />
-step 6 :secure to the door using the 4 ,20mm screws <img width="842" height="457" alt="image" src="https://github.com/user-attachments/assets/14c9a15f-8c15-404c-b9e6-f5591c0df92d" />
+## Electronics Overview
 
+<img width="872" height="447" alt="Overview of electronics" src="https://github.com/user-attachments/assets/41cbf350-64f1-4c59-881d-368c3aa04bd5" />
 
-step 7 : attach above the door using 4 screws.
+## Assembly Instructions
 
-<img width="516" height="352" alt="image" src="https://github.com/user-attachments/assets/5e7975af-ab9b-40c2-a3d3-26c19963dbbe" />
+### Main Mechanism
 
-step 8 : knot 1 end of the fishing line to the hole in the pulley wheel and tie the other end to the hook above the door.
+**Step 1:** Connect all the electronics.
 
-<img width="1157" height="815" alt="image" src="https://github.com/user-attachments/assets/73b67b78-9201-4ae9-b1d9-ab369c6ba442" />
+**Step 2:** Connect these parts as shown below.
 
-**the remote**
-step 1 : put the button throught the hole in the lid
+<img width="482" height="381" alt="Assembly step 2" src="https://github.com/user-attachments/assets/35f0c773-a427-409d-ba69-0411f42e06e3" />
 
+**Step 3:** Insert the assembly into the main frame as shown.
 
-<img width="380" height="382" alt="image" src="https://github.com/user-attachments/assets/e3373d02-2956-492f-b2d2-9bda6ebd830d" />
+<img width="592" height="417" alt="Assembly step 3" src="https://github.com/user-attachments/assets/775ac7c0-9169-46fa-b4eb-01dd6f7bb59e" />
 
+**Step 4:** Insert the part shown into the pulley system, then attach the motor to it with all the electronics and place everything into the case.
 
-step 2 : attach the elctronics
+<img width="1215" height="327" alt="Assembly step 4" src="https://github.com/user-attachments/assets/5667d320-ce3b-40a8-91f3-95d18a61fdf6" />
 
-step 3 : close the lid and screw down usong 4 screws.
+**Step 5:** Use three screws to secure the lid.
 
+<img width="1332" height="540" alt="Assembly step 5" src="https://github.com/user-attachments/assets/a8847131-c2ac-43f2-a6ae-ef1f767a284e" />
 
+**Step 6:** Secure the unit to the door using four 20 mm screws.
 
+<img width="842" height="457" alt="Assembly step 6" src="https://github.com/user-attachments/assets/14c9a15f-8c15-404c-b9e6-f5591c0df92d" />
 
+**Step 7:** Attach the top mount above the door using four screws.
+
+<img width="516" height="352" alt="Assembly step 7" src="https://github.com/user-attachments/assets/5e7975af-ab9b-40c2-a3d3-26c19963dbbe" />
+
+**Step 8:** Tie one end of the fishing line to the hole in the pulley wheel and tie the other end to the hook above the door.
+
+<img width="1157" height="815" alt="Assembly step 8" src="https://github.com/user-attachments/assets/73b67b78-9201-4ae9-b1d9-ab369c6ba442" />
+
+### The Remote
+
+**Step 1:** Put the button through the hole in the lid.
+
+<img width="380" height="382" alt="Remote step 1" src="https://github.com/user-attachments/assets/e3373d02-2956-492f-b2d2-9bda6ebd830d" />
+
+**Step 2:** Attach the electronics.
+
+**Step 3:** Close the lid and screw it down using four screws.
 
