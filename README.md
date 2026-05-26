@@ -83,7 +83,8 @@ Before attaching the wires to the ESP32 VIN pin, use a multimeter to make sure t
 
 ## Electronics Overview
 
-<img width="872" height="447" alt="Overview of electronics" src="https://github.com/user-attachments/assets/41cbf350-64f1-4c59-881d-368c3aa04bd5" />
+<img width="552" height="276" alt="Screenshot 2026-05-25 223024" src="https://github.com/user-attachments/assets/2daa2f66-122b-4983-a579-9aaa15454b40" />
+
 
 ## Assembly Instructions
 
@@ -99,19 +100,35 @@ Before attaching the wires to the ESP32 VIN pin, use a multimeter to make sure t
 
 <img width="592" height="417" alt="Assembly step 3" src="https://github.com/user-attachments/assets/775ac7c0-9169-46fa-b4eb-01dd6f7bb59e" />
 
-**Step 4:** Insert the part shown into the pulley system, then attach the motor to it with all the electronics and place everything into the case.
+**Step 4:** Insert the part shown into the pulley system, then attach the motor 
 
 <img width="1215" height="327" alt="Assembly step 4" src="https://github.com/user-attachments/assets/5667d320-ce3b-40a8-91f3-95d18a61fdf6" />
 
-**Step 5:** Use three screws to secure the lid.
+**Step 5:** inserts the heated threaded inserts in the below shown locations.
+
+<img width="1245" height="686" alt="image" src="https://github.com/user-attachments/assets/b287b5ce-b364-4d46-a53c-18261e3a52a8" />
+
+<img width="941" height="716" alt="image" src="https://github.com/user-attachments/assets/4ea8070c-2e8b-46e9-83a0-7a63b88441cb" />
+
+<img width="762" height="581" alt="image" src="https://github.com/user-attachments/assets/1ee3a7a4-246d-42ec-9731-b988ca665dbf" />
+
+<img width="685" height="408" alt="image" src="https://github.com/user-attachments/assets/97860aa0-069a-4aa9-91e0-e87e1e553273" />
+
+<img width="574" height="333" alt="image" src="https://github.com/user-attachments/assets/d4da18b2-169c-4a2a-9305-649a9400c707" />
+
+**Step 6:** secure the motor using the inserts like so
+
+ <img width="762" height="581" alt="Screenshot 2026-05-25 212148" src="https://github.com/user-attachments/assets/be93524b-bd7f-47ef-a621-e62f62c367cf" />
+
+**Step 6:** Use three screws to secure the lid.
 
 <img width="1332" height="540" alt="Assembly step 5" src="https://github.com/user-attachments/assets/a8847131-c2ac-43f2-a6ae-ef1f767a284e" />
 
-**Step 6:** Secure the unit to the door using four 20 mm screws.
+**Step 7:** Secure the unit to the door using four 20 mm screws.
 
 <img width="842" height="457" alt="Assembly step 6" src="https://github.com/user-attachments/assets/14c9a15f-8c15-404c-b9e6-f5591c0df92d" />
 
-**Step 7:** Attach the top mount above the door using four screws.
+**Step 8:** Attach the top mount above the door using four screws.
 
 <img width="516" height="352" alt="Assembly step 7" src="https://github.com/user-attachments/assets/5e7975af-ab9b-40c2-a3d3-26c19963dbbe" />
 
