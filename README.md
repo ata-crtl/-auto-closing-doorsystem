@@ -24,7 +24,7 @@ Before attaching the wires to the ESP32 VIN pin, use a multimeter to make sure t
 ## CAD
 
 **Onshape link:**  
-[View the Onshape model](https://cad.onshape.com/documents/bdd11de85f4570d51cb36bd7/w/b7536c01ad29c059d531be40/e/18cae29c07399e9e1a59fdc1?renderMode=0&uiState=6a0644923286901e478942eb)
+[View the Onshape model](https://cad.onshape.com/documents/bdd11de85f4570d51cb36bd7/w/b7536c01ad29c059d531be40/e/07df8b484f8b3f7ee84a2b9b?renderMode=0&uiState=6a15705f002f3bb3f2bcfc0f)
 
 ## Main Build Preview
 
