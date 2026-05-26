@@ -28,7 +28,8 @@ Before attaching the wires to the ESP32 VIN pin, use a multimeter to make sure t
 
 ## Main Build Preview
 
-<img width="456" height="650" alt="Automatic door closer build" src="https://github.com/user-attachments/assets/4f2492cb-006c-43d6-8838-15de3b196b8f" />
+<img width="530" height="769" alt="image" src="https://github.com/user-attachments/assets/536c9a44-3177-43e3-ab12-387108aa1cf3" />
+
 
 ## Bill of Materials
 
