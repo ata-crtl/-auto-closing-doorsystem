@@ -1,6 +1,6 @@
 # Automatic Door Closer
 
-This is a rechargible door closer, it is designed to comabt the issue of people always leaveing my door open.You push the button once and there you go , the motor pulls in the fishing wire and closes the door.
+This is a rechargible door closer, it is designed to comabt the issue of people always leaveing my door open.You push the button once and there you go , the motor pulls in the fishing wire meaning you now have the ability to close the door from your bed. 
 
 This system has a seprate remote and employs to esp32s to comunicate amongst each other and close the door from your bed. It is also desighned to be rechargible so you can maintain it.
 
