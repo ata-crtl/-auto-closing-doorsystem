@@ -22,7 +22,8 @@ Before attaching the wires to the ESP32 VIN pin, use a multimeter to make sure t
 
 ## Main Build Preview
 
-<img width="530" height="769" alt="Main build preview" src="https://github.com/user-attachments/assets/536c9a44-3177-43e3-ab12-387108aa1cf3" />
+<img width="452" height="672" alt="image" src="https://github.com/user-attachments/assets/355bad04-d477-4f6e-af7f-f23c8c8afd7e" />
+
 
 ## Bill of Materials
 
