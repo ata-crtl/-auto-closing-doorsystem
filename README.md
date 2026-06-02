@@ -140,6 +140,4 @@ Before attaching the wires to the ESP32 VIN pin, use a multimeter to make sure t
 
 **Step 3:** Close the lid and screw it down using four screws.
 
-## Repository
 
-[Project README on GitHub](https://github.com/ata-crtl/-auto-closing-doorsystem/blob/main/README.md)
