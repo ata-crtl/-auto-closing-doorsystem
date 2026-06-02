@@ -1,25 +1,19 @@
 # Automatic Door Closer
 
-A rechargeable automatic door closer designed to solve a simple but frustrating problem: doors being left open. With a single button press, the system activates a motor-driven pulley mechanism that pulls the door shut reliably and consistently.
+This is a rechargible door closer, it is designed to comabt the issue of people always leaveing my door open.You push the button once and there you go , the motor pulls in the fishing wire and closes the door.
 
-The project combines mechanical design, embedded control, and wireless communication. An ESP32 controls a high-power motor through a driver, while a separate remote unit allows the door to be closed from a distance. The system is built with a rechargeable power setup, making it portable and easy to maintain without constant battery replacement.
-
-## Why I Made It
-
-I got tired of my door constantly being left open, so I built something practical to fix it. The goal was to keep the system simple: press one button, and the door closes.
+This system has a seprate remote and employs to esp32s to comunicate amongst each other and close the door from your bed. It is also desighned to be rechargible so you can maintain it.
 
 ## Features
 
-- Push-button door closing.
-- High-power motor for stronger pulling force.
 - Rechargeable power system.
-- ESP32-based control system.
-- Separate remote sender.
-- Designed to mount onto a door and above the door frame.
+- ESP32 based control system.
+- Separate remote Control
+- Made to mount onto a door and above the door frame.
 
 ## Important Safety Check
 
-Before attaching the wires to the ESP32 VIN pin, use a multimeter to make sure the wire coming from the buck converter is **5V**. Do the same for the remote power output before connecting it to the ESP32.
+Before attaching the wires to the ESP32 VIN pin, use a multimeter to make sure the wire coming from the buck converter is **5V** to not fry your esp and the same for the remote power output before connecting it to the ESP32.
 
 ## CAD
 
